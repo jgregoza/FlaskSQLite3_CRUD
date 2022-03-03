@@ -35,7 +35,7 @@ python app.py
 <h1 align="center">Hi 👋, I'm Gregorio Zamora</h1>
 <h3 align="center">A passionate frontend developer in transition from Nicaragua</h3>
 
-- 🔭 I’m currently working on [TO-DO List](https://github.com/jgregoza/FlaskSQLite3_CRUD)
+- 🔭 I’m currently working on [TO-DO List](https://crudflasksqlite3.herokuapp.com/)
 
 - 🌱 I’m currently learning **Python Backend**
 
