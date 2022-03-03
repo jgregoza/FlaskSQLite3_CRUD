@@ -8,8 +8,7 @@ A Todo list App made in Python and the Django.
 ## Visual
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jgregoza/FlaskSQLite3_CRUD/main/TO-DO_app.PNG" width="350" title="hover text">
-  <img src="https://raw.githubusercontent.com/jgregoza/FlaskSQLite3_CRUD/main/TO-DO_app.PNGe" width="350" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/jgregoza/FlaskSQLite3_CRUD/main/TO-DO_app.PNG" width="350" title="to-do_app">
 </p>
 
 ## Installation
