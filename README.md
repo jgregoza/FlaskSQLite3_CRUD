@@ -1,3 +1,31 @@
+# ToDo-list-App
+
+A Todo list App made in Python and the Django.
+
+## Installation
+Create ENV
+
+Activate ENV
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirement.
+
+```bash
+pip install requirements.txt
+```
+
+## Usage
+
+```python
+Run
+python app.py
+
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
 <h1 align="center">Hi 👋, I'm Gregorio Zamora</h1>
 <h3 align="center">A passionate frontend developer in transition from Nicaragua</h3>
 
