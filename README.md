@@ -13,6 +13,7 @@ A Todo list App made in Python and the Django.
 
 
 ![Alt text](relative/jgregoza/FlaskSQLite3_CRUD/main/TO-DO_app.PNG?raw=true "Title")
+![alt text](https://raw.githubusercontent.com/jgregoza/FlaskSQLite3_CRUD/main/TO-DO_app.PNG)
 
 ## Installation
 Create ENV
