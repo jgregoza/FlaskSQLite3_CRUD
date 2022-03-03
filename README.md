@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gregorio Zamora</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate backend developer in transition from Nicaragua</h3>
 
 - 🔭 I’m currently working on [TO-DO List](https://github.com/jgregoza/FlaskSQLite3_CRUD)
 
