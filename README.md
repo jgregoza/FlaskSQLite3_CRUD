@@ -37,7 +37,7 @@ python app.py
 - 🔭 I’m currently working on [TO-DO List](https://crudflasksqlite3.herokuapp.com/)
 
 - 🌱 I’m currently learning **Python Backend**
-- 
+
 - 📫 How to reach me **jgregoza@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
